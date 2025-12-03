@@ -366,11 +366,11 @@ profileAdminStartFg: bright_red; // group members list admin star icon
 overviewPhotoSelectOverlay: overlay; // shared photos / videos / links fill for selected rows
 
 titleButtonFg: fg;
-titleButtonFgOver: bright_orange;
-titleButtonFgActive: bright_orange;
+titleButtonFgOver: fg;
+titleButtonFgActive: fg;
 
 titleButtonBg: none;
-titleButtonBgOver: none;
+titleButtonBgOver: bg1;
 titleButtonBgActive: none;
 
 sideBarTextFg: fg4; // filters side bar text
